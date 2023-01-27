@@ -7,10 +7,10 @@ import React from 'react'
     <p>CompuStore - Organisation-2023</p>
   </div>
   <div className="social">
-    <a href="#" className="support">Contact Us</a>
-    <a href="#" className="face">f</a>
-    <a href="#" className="tweet">t</a>
-    <a href="#" className="linked">in</a>
+    <a href="this1" className="support">Contact Us</a>
+    <a href="this 1" className="face">f</a>
+    <a href="this 2" className="tweet">t</a>
+    <a href="this 3" className="linked">in</a>
   </div>
 </footer>
   )
