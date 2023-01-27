@@ -16,7 +16,7 @@ function App() {
   return (
     <>
     <div className='nav-container'>
-    <img src={icon}alt='a laptop picture'/>
+    <img src={icon} alt='qawa'/>
      <div className='logo-title'>Compu<span className='store'>Store</span></div>
      <input className='search-bar' Type="text" placeholder="Search For Products..."/>
      </div>
